@@ -12,9 +12,7 @@ This project consists of an **IR LED** that continuously emits infrared light an
 
 ## 📷 PCB Design
 
-> Add the PCB layout image below.
-
-![PCB Layout](pcb.png)
+<img width="1580" height="730" alt="Image" src="https://github.com/user-attachments/assets/907db9af-dccb-42eb-b4dc-96cc0259298a" />
 
 ---
 
